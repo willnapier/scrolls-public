@@ -18,6 +18,7 @@ Personal context modules for AI-assisted conversations. Vendor-neutral plain Mar
 ## Project Context
 
 - [PracticeForge](practiceforge) — clinical AI note-writing system + open-source PMS (architecture, current as of 2026-05-10)
+- [MailForge](mailforge) — browser-native mail client over notmuch + pizauth + msmtp (architecture, current as of 2026-05-10)
 
 ## Purpose
 
