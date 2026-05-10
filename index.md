@@ -6,7 +6,7 @@ title: Scrolls
 
 Personal context modules for AI-assisted conversations. Vendor-neutral plain Markdown.
 
-## Modules
+## Personal Context
 
 - [Biographical](biographical) — historical formation and background
 - [Philosophical](philosophical) — intellectual positions and aspirations
@@ -14,6 +14,10 @@ Personal context modules for AI-assisted conversations. Vendor-neutral plain Mar
 - [Dietary](dietary) — eating patterns, supplements, exercise context
 - [Social](social) — relationships, community, friendship philosophy
 - [Financial](financial) — financial values framework and strategy
+
+## Project Context
+
+- [PracticeForge](practiceforge) — clinical AI note-writing system + open-source PMS (architecture, current as of 2026-05-10)
 
 ## Purpose
 
